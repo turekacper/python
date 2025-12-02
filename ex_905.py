@@ -1,6 +1,6 @@
 from getpass import getpass
-
 class User: 
+
     def __init__(self, first_name, last_name, usr_login, password, job):
         self.last_name = last_name
         self.usr_login = usr_login
