@@ -1,0 +1,5 @@
+In python you can: read files
+In python you can: do loops 
+In python you can:  create methods 
+In python you can: call functions
+In python you can: create a website
